@@ -10,7 +10,7 @@ The orders will be updated based on the Billogram Event system such as "Invoice 
 ![Settings in WooCommerce](/screens/settings.png "Settings in WooCommerce")
 
 #### Billogram Checkout
-![Checkout in WooCommerce](/screens/settings.png "Checkout in WooCommerce")
+![Checkout in WooCommerce](/screens/setting.png "Checkout in WooCommerce")
 
 #### WooCommerce order flow with Billogram
 ![Checkout in WooCommerce](/screens/order.png "Checkout in WooCommerce")
